@@ -5,7 +5,7 @@ defusedxml==0.6.0
 Django==2.2
 django-multiselectfield==0.1.11
 django-oauth2-provider==0.2.6.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djangorestframework-oauth==1.1.0
 httplib2==0.15.0
 idna==2.8
